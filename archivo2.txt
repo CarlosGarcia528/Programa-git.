@@ -1,0 +1,7 @@
+1 linea del archivo 2
+2 linea del archivo 2
+3 linea del archivo 2
+
+estoy haciendo cambios en el archivo 2
+
+agregando nuevas lineas de texto
